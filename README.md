@@ -1,4 +1,14 @@
-# Project Name: Captcha Generator
+# Captcha Generator
+
+## Demo Screenshots
+
+![Demo Screenshot](https://github.com/Daniish-Qureshi/Captcha-Generator/blob/main/Demo.png)
+
+## Live Demo
+
+Click the button below to see the project in action:
+
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Captcha-Generator/)
 
 # Introduction
 
@@ -18,16 +28,6 @@ The Captcha Generator project is a web-based application designed to generate an
 - *HTML5*: For structuring the content.
 - *CSS3*: For styling and layout.
 - *JavaScript*: For generating CAPTCHAs and handling user interaction.
-
-## Demo Screenshots
-
-![Demo Screenshot](https://github.com/Daniish-Qureshi/Captcha-Generator/blob/main/Demo.png)
-
-## Live Demo
-
-Click the button below to see the project in action:
-
-[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Captcha-Generator/)
 
 ## Contact
 
